@@ -148,7 +148,7 @@ int main()
         }
         else if (userChoice == 2)
         {
-
+            break;
         }
         else
         {
